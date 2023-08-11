@@ -1,3 +1,5 @@
+![Screenshot (272)](https://github.com/Prit-am1/Prit-am1/assets/136684488/e65a0181-eec3-48a3-a14f-b5dab62803cc)
+
 👋 Hello there! I am Pritam Roy Chowdhury. Welcome to my GitHub profile!  
    ![image](https://github.com/Prit-am1/Prit-am1/assets/136684488/1cd276df-37f9-4672-9613-56ed1ae74daf)
 
