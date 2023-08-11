@@ -1,6 +1,6 @@
-                                  👋 Hello there! Welcome to my GitHub profile!
-                                             I am Pritam Roy Chowdhury
-                                          A passionate Full Stack Developer 
+                                     👋 Hello there! Welcome to my GitHub profile!
+                                                I am Pritam Roy Chowdhury
+                                             A passionate Full Stack Developer 
    ![image](https://github.com/Prit-am1/Prit-am1/assets/136684488/1cd276df-37f9-4672-9613-56ed1ae74daf)
 
 
