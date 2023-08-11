@@ -1,11 +1,5 @@
+👋 Hello there! I am Pritam Roy Chowdhury. Welcome to my GitHub profile!          ![image](https://github.com/Prit-am1/Prit-am1/assets/136684488/1cd276df-37f9-4672-9613-56ed1ae74daf)
 
-![image](https://github.com/Prit-am1/Prit-am1/assets/136684488/1cd276df-37f9-4672-9613-56ed1ae74daf)
-
-
-
-
-
-👋 Hello there! I am Pritam Roy Chowdhury. Welcome to my GitHub profile!
 
 🧠 About Me:
 
